@@ -1,2 +1,2 @@
-n = 5
- = [2, 3, 5, 7, 11]
+Print("Hello World")
+print("NSK")
